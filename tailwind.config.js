@@ -10,6 +10,10 @@ module.exports = {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        biru: "var(--biru)",
+        birul: "var(--birul)",
+        ijo: "var(--ijo)",
+        putih: "var(--putih)"
       },
     },
   },

@@ -5,6 +5,11 @@
 :root {
   --background: #ffffff;
   --foreground: #171717;
+  --ijo: #346E75;
+  --biru: #3DABC2;
+  --birul: #91F2FF;
+  --putih: #FFFFFF;
+  
 }
 
 @media (prefers-color-scheme: dark) {
